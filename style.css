@@ -1,0 +1,166 @@
+@import url(https://fonts.googleapis.com/css?family=Bigshot+One);
+@import url(https://fonts.googleapis.com/css?family=Over+the+Rainbow);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+/* .hero {
+    background-image: url(https://images.unsplash.com/photo-1536228891610-d27ef66f7110);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;    
+    padding-bottom: 45%;
+}
+.inner-hero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.inner-hero h1 {
+    font-size: 78px;
+    line-height: 78px;
+    font-family: 'Bigshot One', serif;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.inner-hero p {
+    font-family: 'Over the Rainbow', serif;
+    font-size: `18px;
+    line-height: 28px;
+    margin-bottom: 35px;
+}
+
+a.cta {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background-color: #00a6ed;
+    padding: 10px 20px;
+    font-size: 28px;
+    line-height: 32px;
+    border-radius: 26px;
+    font-family: 'Bigshot One', serif;
+}
+
+.content {
+    width: 100%;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.content p{
+    font-family: 'Open Sans' sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    padding: 10px;
+} */
+
+body {
+    background-color: #555;
+}
+
+button {
+    text-transform: uppercase;
+}
+img {
+    max-width: 100%;
+}
+
+section {
+    padding-top: 100px;
+}
+.navbar {
+   
+}
+
+
+
+.hero {
+    background-image: url('https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?ixlib=rb-0.3.5&s=e41fe5af8a3305477ebccfc9da881bd3&auto=format&fit=crop&w=1500&q=80');
+    background-position: top bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 18%;
+    padding-bottom: 18%;
+}
+
+.hero-bg{    
+    width: 100%;
+    height: 100%;
+    background-color: rgba(43, 43, 43, 0.3);
+}
+.hero h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.hero p {
+    font-size: 25px;
+    line-height: 1px;
+}
+.hero button {
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.title-heading {
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 1;    
+    padding-bottom: 50px;
+}
+
+.title-subheading {
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 1;
+    color: rgb(160, 160, 160);
+    font-weight: 700;
+}
+
+.card {
+    background-color: transparent;
+    border: none;
+}
+.card-title {
+    text-transform: uppercase; 
+    font-size: 18px;   
+    color: rgb(160, 160, 160);
+}
+
+.card-text {
+ color: white;
+}
+
+.phone {
+    width: 300px;
+    height: 350px;
+    border-radius: 20px 20px 0 0;
+    background-color: rgb(39, 38, 38);
+    position: relative;
+}
+
+.phone div {
+    position: absolute;
+    background: rgb(105, 105, 105);
+    width: 90%;
+    height: 80%;
+    bottom: 15px;
+    left: 5%;
+    transform: translate(0, 5%);
+
+}
+
+
+
+
+
+
+
+
